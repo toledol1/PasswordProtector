@@ -1,0 +1,35 @@
+body{
+    background-image: radial-gradient(circle at top left, #d1e1c6, #227726 55%, #054721 90%);
+    color: #000;
+}
+
+.logo{
+	text-align:center
+}
+
+.header{
+    vertical-align: middle;
+	border-bottom: solid #d1e1c6 1px;
+	padding-bottom: 15px;
+}
+
+.welcome{
+	text-align: right;
+}
+
+.navbarHeader{
+	text-align: right;
+	float:right;
+	color: #000;
+}
+
+.navbarLabel{
+	color: #000;
+}
+.navbarLabel:hover{
+	color: #d1e1c6;
+}
+
+.content{
+	margin-top: 5%;
+}
